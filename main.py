@@ -14,7 +14,7 @@ import colorama
 from akaneko import akaneko
 from colorama import Fore, Back, Style
 from discord.ext import commands
-from config import settings
+# from config import settings
 from telegram.ext import Updater, CommandHandler
 from aiogram import Bot, Dispatcher, types
 import webbrowser
